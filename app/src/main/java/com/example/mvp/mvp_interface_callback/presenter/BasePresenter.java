@@ -7,7 +7,7 @@ import java.lang.ref.WeakReference;
  */
 
 public class BasePresenter<T> {
-
+//fasdfasdfasdfasdf
     protected WeakReference<T> iView;
 
     public void attachView(T view){
