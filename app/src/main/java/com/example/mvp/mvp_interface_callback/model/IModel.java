@@ -9,7 +9,7 @@ import java.util.List;
  */
 
 public interface IModel {
-
+//haha
         void loadGrils(GirlLoadListener girlLoadListener);
         interface GirlLoadListener{
             void onComplete(List<Girls> girls);
